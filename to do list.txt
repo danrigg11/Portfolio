@@ -1,0 +1,5 @@
+﻿Centre page title.
+Edit sloth final background.
+Edit github button when page width lowers.
+Edit python cv code for python skills ect.
+to add image enlargers when clicked.
